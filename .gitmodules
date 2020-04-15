@@ -1,6 +1,6 @@
 [submodule "server"]
 	path = server
-	url = https://github.com/mukeran/FlagField-Server.git
+	url = ../FlagField-Server.git
 [submodule "web"]
 	path = web
-	url = https://github.com/mukeran/FlagField-Web.git
+	url = ../FlagField-Web.git
