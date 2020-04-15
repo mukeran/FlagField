@@ -3,21 +3,29 @@ A developing system for CTF Jeopardy.
 
 This is the introduction for the whole system. And in this project, there will be some open project document for everyone to refer to.
 
-Project leader: [mukeran](https://github.com/mukeran)
+Contributor:
 
-Member: [am009](https://github.com/am009)，[Tinywangxx](https://github.com/Tinywangxx)
+- [mukeran](https://github.com/mukeran)
 
-## FlagField-Server
+Previously contributor:
 
-[FlagField-Server on github.com](https://github.com/FlagField/FlagField-Server)
+- [am009](https://github.com/am009): Finished the most of FlagField's web client.
+
+- [Tinywangxx](https://github.com/Tinywangxx): Little work as his name.
+
+Recommended version are presented in this repository.
+
+## Deployment
+
+This will be completed later.
+
+## [Server](https://github.com/mukeran/FlagField-Server)
 
 FlagField-Server is FlagField's core server. It handles the request from the clients and manage the docker images, containers, resources and problems.
 
 It is based on Go, with gin and gorm.
 
-## FlagField-Web
-
-[FlagField-Web on github.com (Please wait for open-source)](https://github.com/FlagField/FlagField-Web)
+## [Web](https://github.com/mukeran/FlagField-Web)
 
 FlagField-Web is FlagField's official front end.  It acts as the interface between user and the server.
 
